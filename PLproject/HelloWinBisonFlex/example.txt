@@ -1,0 +1,10 @@
+mainprog main;
+    var a,b,c : int;
+	
+begin
+	a = 0;
+	b = 200;
+	c = 300;
+
+	print(!a)
+end
